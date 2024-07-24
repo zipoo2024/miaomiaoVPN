@@ -5,7 +5,7 @@
 
 **:rocket: "多平台支持，一个账号保护所有设备，确保网络安全无死角。"**
 
-**:man: "24/7 真人客服，30 天无风险退款，喵喵VPN让您的网络更安全、更安心。"**
+**:man: "24/7 真人客服，可无风险退款，喵喵VPN让您的网络更安全、更安心。"**
 
 ---
 
@@ -13,10 +13,10 @@
 
 ---
 ### 点击右上角在浏览器打开下载
-#### :arrow_double_down: [iOS 大陆用户下载教程](https://help.cloudupup.com/ios/Shadowrocket.html)
-#### :arrow_double_down: [Android 版本.APK](https://wwr.lanzouh.com/ibiWV189zash)
-#### :arrow_double_down: [Windows 版本.exe](https://wwr.lanzouh.com/i3g3918a053i)
-#### :arrow_double_down: [macOS 版本.dmg](https://wwr.lanzouh.com/iSWPr18a02li)
+#### :arrow_double_down: [iOS 大陆用户下载教程](https://www.miaomiao-fast.com/ios)
+#### :arrow_double_down: [Android 版本.APK](https://ww0.lanzouq.com/iK0RF25cdfoh)
+#### :arrow_double_down: [Windows 版本.exe](https://ww0.lanzouq.com/iA7kV25cdm7c)
+#### :arrow_double_down: [macOS 版本.dmg](https://ww0.lanzouq.com/iqxR825cd93a)
 #### :house: [官方网站链接 1](https://www.miaomiao-fast.com/)
 ---
 ### 免费福利
