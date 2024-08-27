@@ -9,7 +9,8 @@
 
 ---
 
-## :star: [官网导航](https://www.miaomiao-fast.com/)
+## :star: [官方网站](https://www.miaomiao-fast.com/)
+## :star: [备用网址](https:/mm.yakoo.one/)
 
 ---
 ### 在浏览器中直接点击连接打开下载
