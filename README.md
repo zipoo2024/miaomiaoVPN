@@ -15,9 +15,9 @@
 ---
 ### 在浏览器中直接点击连接打开下载
 #### :arrow_double_down: [iOS 大陆用户下载教程](https://www.miaomiao-fast.com/ios)
-#### :arrow_double_down: [Android 版本.APK](https://ww0.lanzouq.com/iK0RF25cdfoh)
-#### :arrow_double_down: [Windows 版本.exe](https://ww0.lanzouq.com/iA7kV25cdm7c)
-#### :arrow_double_down: [macOS 版本.dmg](https://ww0.lanzouq.com/iqxR825cd93a)
+#### :arrow_double_down: [Android 版本.APK](https://dw.miaomiao.yakoo.one/Miao.apk)
+#### :arrow_double_down: [Windows 版本.exe](https://dw.miaomiao.yakoo.one/Miao.exe)
+#### :arrow_double_down: [macOS 版本.dmg](https://dw.miaomiao.yakoo.one/Miao.dmg)
 ---
 #### :house: [官方网站链接 1](https://www.miaomiao-fast.com/)
 ---
